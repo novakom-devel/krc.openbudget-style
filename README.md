@@ -5,5 +5,5 @@ npm install grunt-cli
 ```
 then run
 ```
-node_modules/bin/grun
+node_modules/.bin/grun
 ```

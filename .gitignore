@@ -39,3 +39,7 @@ docs/.jekyll-metadata
 # Folders to ignore
 bower_components
 node_modules
+
+#Lock files
+package-lock.json
+yarn.lock
